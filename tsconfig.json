@@ -10,4 +10,8 @@
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 214bf00c590712e3292124e677ed3aef0c949560

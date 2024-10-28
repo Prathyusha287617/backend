@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "customer-service",
+=======
+  "name": "branch-service",
+>>>>>>> 214bf00c590712e3292124e677ed3aef0c949560
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +28,10 @@
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.25.9",
     "@babel/preset-typescript": "^7.26.0",
+<<<<<<< HEAD
+=======
+    "@types/cors": "^2.8.17",
+>>>>>>> 214bf00c590712e3292124e677ed3aef0c949560
     "@types/express": "^5.0.0",
     "@types/mongoose": "^5.11.97",
     "@types/node": "^22.8.1",
